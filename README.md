@@ -42,16 +42,16 @@ The truth table and Karnaugh maps were worked out by hand before building — th
 ## Screenshots
 
 ### Logic design — truth table, K-map and gate diagram
-![Logic Design](assets/DiagramaSumadorBits.png)
+![Logic Design](assets/Diagram.png)
 
 ### Full adder overview — input panel (left), 16-bit bus routing (centre), output panel (right)
-![Full View](assets/2024-06-10_00_48_49.png)
+![Full View](assets/picture_1.png)
 
 ### Input/output panels — levers for binary input, note blocks for output display
-![IO Panels](assets/2024-06-20_15_03_54.png)
+![IO Panels](assets/picture_2.png)
 
 ### Single full adder cell — redstone XOR and AND gates, carry propagation
-![Full Adder Cell](assets/2026-03-19_12_40_48.png)
+![Full Adder Cell](assets/picture_3.png)
 
 ---
 
@@ -80,10 +80,10 @@ world/
 ├── entities/       # Entity data
 └── level.dat       # World metadata
 assets/
-├── DiagramaSumadorBits.png
-├── 2024-06-10_00_48_49.png
-├── 2024-06-20_15_03_54.png
-└── 2026-03-19_12_40_48.png
+├── Diagram.png
+├── picture_1.png
+├── picture_2.png
+└── picture_3.png
 ```
 
 ---
